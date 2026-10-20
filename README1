@@ -1,0 +1,42 @@
+
+# CodeAlpha Hangman Game
+
+## Project Description
+This is a simple text-based Hangman game developed
+in Python as part of the CodeAlpha Python Programming
+Internship.
+
+The player must guess a hidden word one letter at a
+time before making six incorrect guesses.
+
+## Features
+- Five predefined words
+- Random word selection
+- One-letter guessing
+- Maximum of six incorrect guesses
+- Input validation
+- Repeated-guess detection
+- Win and lose messages
+
+## Technologies Used
+- Python
+- random module
+- Lists and strings
+- While and for loops
+- Conditional statements
+- User input and output
+
+## How to Run
+1. Install Python 3 if it is not already installed.
+2. Download or clone this repository.
+3. Open the project folder in PyCharm.
+4. Run hangman.py.
+
+No external Python libraries are required.
+
+## Files
+- hangman.py: Main game program
+- README.md: Project documentation
+
+## Internship
+CodeAlpha Python Programming Internship
